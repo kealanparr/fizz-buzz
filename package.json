@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Hello!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kealanparr/fizz-buzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kealanparr/fizz-buzz/issues"
+  },
+  "homepage": "https://github.com/kealanparr/fizz-buzz#readme",
+  "dependencies": {
+    "should": "^13.2.3"
+  }
+}
